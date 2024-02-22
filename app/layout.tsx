@@ -6,7 +6,7 @@ import { NextAuthSessionProvider } from "@/app/providers/NextAuthProvider";
 
 export const metadata: Metadata = {
   title: 'Nootropics',
-  description: 'A simple test run with studio IX',
+  description: 'A simple test run with Next Js',
 }
 
 export default function RootLayout({
