@@ -5,7 +5,7 @@ import { NextAuthSessionProvider } from "@/app/providers/NextAuthProvider";
 
 
 export const metadata: Metadata = {
-  title: 'Nootropics',
+  title: 'Nootropia',
   description: 'A simple test run with Next Js',
 }
 
